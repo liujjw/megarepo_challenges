@@ -1,0 +1,9 @@
+[submodule "ethnaut"]
+	path = ethnaut
+	url = https://github.com/liujjw/ethnaut
+[submodule "aoc"]
+	path = aoc
+	url = https://github.com/liujjw/aoc
+[submodule "damn-vulnerable-defi"]
+	path = damn-vulnerable-defi
+	url = https://github.com/liujjw/damn-vulnerable-defi
